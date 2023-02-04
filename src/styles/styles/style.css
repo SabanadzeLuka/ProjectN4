@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    font-family: 'Aboreto', cursive;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.list-style{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.btn{
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 16px;
+
+    
+}
+.header{
+    padding: 16px;
+    border-bottom: 1px solid black;
+}
+.nav-item{
+    font-size: 20px;
+}
+#banner{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/src/styles/images/backgroundimage.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 1px solid black;
+}
+.banner-style{
+    margin-top: 15%;
+}
+.banner-header{
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+.banner-text{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.section-about{
+    margin-top: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+    
+}
+.section-about h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+.brand-image1 img{
+    width: 200px;
+    height: 200px;
+    border-bottom: 1px solid black;
+}
+.brand-image1 p{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.brand-image2 img{
+    width: 200px;
+    height: 200px;
+    border-bottom: 1px solid black;
+}
+.brand-image2 p{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.brand-image3 img{
+    width: 200px;
+    height: 200px;
+    border-bottom: 1px solid black;
+}
+.brand-image3 p{
+    width: 200px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#about-us{
+    padding-bottom: 100px;
+    border-bottom: 1px solid black;
+}
+
+
+
