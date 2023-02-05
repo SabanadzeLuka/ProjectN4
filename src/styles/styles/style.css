@@ -108,6 +108,107 @@ a{
 #contact-us{
     margin-top: 100px;
 }
+.contact-form{
+    padding-bottom: 100px;
+    border-bottom: 1px solid black;
+}
+.contact1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.contact2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.contact3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.contact4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.contact5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+.contacttext{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.contacttext h4{
+    font-size: 36px;
+}
+.contact6{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.btn1{
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 16px;
+}
+.brandslink{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.brandslink h3{
+    padding-bottom: 20px;
+}
+.navfooter ul {
+    list-style: none;
+}
+.navfooter{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.navfooter h3{
+    padding-bottom: 20px;
+}
+.brandslink ul{
+    list-style: none;
+}
+.footer{
+    display: flex;
+}
+.footer-middle{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-left: 200px;
+    font-size: 50px;
+}
+.footer-right{
+    position: relative;
+    padding-bottom: 50px;
+}
+.footer-right p{
+    display: flex;
+}
+.footer-right span{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
 
 
 
